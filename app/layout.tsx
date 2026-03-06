@@ -18,6 +18,7 @@ const cairo = Cairo({
   display: "swap",
 })
 
+// Website metadata - تم تحديث البيانات الوصفية للموقع
 export const metadata: Metadata = {
   title: "د. إيهاب ياسين - جراحة واستبدال المفاصل",
   description: "عودة إلى الحركة بدون ألم - د. إيهاب ياسين متخصص في جراحة واستبدال مفاصل الورك والركبة والخلايا الجذعية",
